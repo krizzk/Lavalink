@@ -1,7 +1,7 @@
 server:
   port: 2333
   address: 0.0.0.0
-  password: ${LAVALINK_PASSWORD}
+  password: KKMusic2026
 
 lavalink:
   plugins:
