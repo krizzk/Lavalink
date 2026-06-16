@@ -1,0 +1,18 @@
+server:
+  port: 8080
+  address: 0.0.0.0
+  password: ${LAVALINK_PASSWORD}
+
+lavalink:
+  plugins:
+    # kosongin dulu kalau nggak pakai plugin tambahan
+  server:
+    sources:
+      youtube: true
+      bandcamp: true
+      soundcloud: true
+      twitch: true
+      vimeo: true
+      mixer: true
+      http: true
+      local: true
